@@ -50,7 +50,7 @@ public class ArrayListMethods {
 		List.remove(2);
 		System.out.println(List);
 
-		// Remove specific value directly by name or ETC
+		// Remove specific value directly by name or ETC(integer)
 		List.remove("Ass");
 		System.out.println(List);
 
